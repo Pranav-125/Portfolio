@@ -27,7 +27,7 @@ if (navToggle && nav) {
 
 // learning log — scrolling ticker of in-progress topics
 const logEntries = [
-  { tag: 'INFO', text: 'loading module: machine-learning' },
+  { tag: 'INFO', text: 'loading module: Spring Boot' },
   { tag: 'INFO', text: 'loading module: deep-learning' },
   { tag: 'INFO', text: 'loading module: generative-ai' },
   { tag: 'INFO', text: 'loading module: llms' },
